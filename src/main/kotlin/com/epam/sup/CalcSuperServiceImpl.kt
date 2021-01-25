@@ -8,5 +8,4 @@ class CalcSuperServiceImpl : CalcSuperService {
     override fun multiplySuper(a: Int, b: Int, c: Int): Int {
         return 0
     }
-
 }
